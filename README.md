@@ -26,6 +26,7 @@ To summarize, I used the following in making this page:
 
 *User profile photos from anime characters (Hanamichi, Gojo, Hisoka, some random masked anime character)
 
+--------
 Credits:
 
 Hanamichi User profile photo - michael0730/deviantart
