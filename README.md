@@ -7,18 +7,29 @@ I started by making the HTML structure and going as close as possible to the tem
 To summarize, I used the following in making this page:
 
 *Flexbox
+
 *flex-direction: column
+
 *box-shadow
+
 *border-radius
+
 *box-sizing: border-box
+
 *img src
+
 *social media channel logos (facebook, ig, twitter)
+
 *custom logo from textcraft.net
+
 *images from mega-deblow's custom-built gaming PC
+
 *User profile photos from anime characters (Hanamichi, Gojo, Hisoka, some random masked anime character)
 
 Credits:
 
 Hanamichi User profile photo - michael0730/deviantart
+
 hero-image/page image contents - mega-deblow
+
 Logo - textcraft.net
